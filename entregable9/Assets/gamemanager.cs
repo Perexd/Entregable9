@@ -11,7 +11,7 @@ public class gamemanager : MonoBehaviour
     public string namePlayer;
     public string saveName;
 
-    public Text inputText;
+    public Text  inputText;
     public Text loadedName;
      
  
